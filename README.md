@@ -8,12 +8,6 @@ This repository accompanies the study:
 
 ## Data availability
 
-The input and supplementary datasets used in this study are deposited in Zenodo and are not included in this GitHub repository.
-
-**Zenodo:** [INSERT ZENODO DOI OR RECORD URL]
-
-The Zenodo record contains the sequence datasets, GenBank metadata, maximum-likelihood phylogenetic trees, and RDP4 recombination-analysis outputs used in the study.
-
 This repository contains the analysis scripts and software-environment specifications.
 
 ## Repository structure
@@ -313,8 +307,6 @@ Please cite the associated publication when using this repository:
 
 **β-Lactamases and Their Genomic Neighbourhoods in *Klebsiella pneumoniae* Exhibit a Partially Modular Evolutionary Architecture**
 
-**Data:** [ZENODO DOI]
-
-**Code:** [GITHUB REPOSITORY URL]
+**Code:** https://github.com/Scriptococcus/klebsiella-bla-evolution
 
 See `CITATION.cff` for citation metadata.
