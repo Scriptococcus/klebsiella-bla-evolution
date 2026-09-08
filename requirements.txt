@@ -1,0 +1,11 @@
+biopython
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+tqdm
+openpyxl
+matplotlib
+pillow
+geopy

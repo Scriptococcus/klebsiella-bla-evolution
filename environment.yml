@@ -1,0 +1,16 @@
+name: bla-regulatory-python
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - biopython
+  - pandas
+  - numpy
+  - requests
+  - beautifulsoup4
+  - lxml
+  - tqdm
+  - openpyxl
+  - matplotlib
+  - pillow
+  - geopy

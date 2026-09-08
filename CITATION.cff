@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "Comparative Genomic Architecture of Klebsiella pneumoniae β-Lactamase Loci"
+type: software
+message: "Please cite the associated manuscript and the Zenodo data record when using this repository."
+abstract: "Reproducible scripts for comparative analysis of blaIMP, blaKPC, blaNDM, blaTEM and blaSHV loci, including sequence extraction, metadata recovery, phylogenetic annotation, patristic-distance clustering, topological discordance, recombination breakpoint analysis and genomic-context visualization."
+license: MIT
+repository-code: "https://github.com/<username>/<repository>"
+url: "https://github.com/<username>/<repository>"
+authors:
+  - family-names: "M"
+    given-names: "Rahul Madhav"

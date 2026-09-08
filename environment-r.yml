@@ -1,0 +1,20 @@
+name: bla-regulatory-r
+channels:
+  - conda-forge
+dependencies:
+  - r-base=4.4
+  - r-ape
+  - r-cluster
+  - r-ggplot2
+  - r-dplyr
+  - r-tidyr
+  - r-patchwork
+  - r-ggrepel
+  - r-readr
+  - r-stringr
+  - r-purrr
+  - r-phangorn
+  - r-treedist
+  - r-quartet
+  - r-phytools
+  - r-svglite

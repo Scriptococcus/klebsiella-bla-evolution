@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Data and local inputs (distributed via Zenodo)
+/data/*
+!/data/README.md
+/trees/
+/metadata.csv
+/matched_bootstrap_replicates.csv
+
+# Sequence / annotation / table inputs and generated data
+*.fasta
+*.fa
+*.fas
+*.gb
+*.gbk
+*.genbank
+*.treefile
+*.nwk
+*.tre
+*.contree
+*.dna
+*.xlsx
+*.xls
+*.csv
+
+# Generated figures / reports
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.svg
+
+# Analysis outputs
+/results/*
+!results/.gitkeep
+
+# Secrets / local configuration
+.env
+*.key
+*.pem
+credentials.*
