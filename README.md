@@ -300,13 +300,3 @@ The datasets required for the analyses are archived in Zenodo, while the analysi
 Use relative paths or command-line arguments rather than machine-specific paths.
 
 Do not commit NCBI API keys, credentials, private datasets, or other sensitive configuration files.
-
-## Citation
-
-Please cite the associated publication when using this repository:
-
-**β-Lactamases and Their Genomic Neighbourhoods in *Klebsiella pneumoniae* Exhibit a Partially Modular Evolutionary Architecture**
-
-**Code:** https://github.com/Scriptococcus/klebsiella-bla-evolution
-
-See `CITATION.cff` for citation metadata.
